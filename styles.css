@@ -1,0 +1,176 @@
+body {
+  background: #333333;
+  color: #EAEAEA;
+  font-family: "Century Gothic";
+}
+
+#nav > ul > li {
+  display: inline-block;
+  margin-left: 1em;
+  padding: 10px;
+  color: #EAEAEA;
+  line-height: 3.5 en;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  font-size: 33px;
+}
+
+#nav > ul > li a {
+
+  color: #EAEAEA;
+  line-height: 3.5 en;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  font-size: 33px;
+}
+
+.container #nav {
+  position: static;
+  right: none;
+  text-align: center;
+}
+
+#fullWidth0 {
+  background: #e2cd0e;
+  color: #333333;
+  font-size: 22px;
+  line-height: 2em;
+}
+
+#fullWidth1 {
+  background:  #333333;
+  color: #EAEAEA;
+  font-size: 22px;
+  line-height: 2em;
+}
+
+#section1 {
+  width: 1000px;
+  overflow: hidden;
+  margin: 0 auto;
+  padding: 30px 30px;
+  text-align: justify;
+}
+
+#section2 {
+  width: 1000px;
+  overflow: hidden;
+  margin: 0 auto;
+  padding: 30px 30px;
+  text-align: justify;
+}
+
+#section3 {
+  width: 1000px;
+  overflow: hidden;
+  margin: 0 auto;
+  padding: 30px 30px;
+  text-align: justify;
+}
+
+#section4 {
+  width: 1000px;
+  overflow: hidden;
+  margin: 0 auto;
+  padding: 30px 30px;
+  text-align: justify;
+}
+
+#section5 {
+  width: 1000px;
+  overflow: hidden;
+  margin: 0 auto;
+  padding: 30px 30px;
+  text-align: justify;
+}
+
+h2 {
+  font-family: "Century Gothic";
+  font-size: 100px;
+  letter-spacing: -8px;
+  text-align: center;
+  text-transform: uppercasae;
+  padding: 30px;
+  background-color: red;
+  line-height: 200px;
+  border-radius: 100%;
+  width: 350px;
+  height: 350px;
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
+
+#banner {
+  width: 1000px auto;
+  padding: 0px;
+  color: EAEAEA;
+  text-align: center;
+}
+
+#banner h1{
+  width: 400px;
+  height: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+  font-size: 100px;
+  color: #333333;
+  line-height: 200px;
+  text-align: center;
+  background: #FFE915;
+  text-transform: uppercase;
+  font-family: "Century Gothic";
+  letter-spacing: -10px;
+}
+
+#banner h3{
+  font-size: 40px;
+  text-transform: uppercase;
+  letter-spacing: -1.5px;
+
+}
+
+#banner p{
+  display: block;
+  text-align: justify;
+  width: 1000px;
+  margin: 0px auto; 
+  overflow: hidden;
+  padding: 30px 30px;
+  font-size: 28px;
+  text-align: justify;
+}
+
+#white {
+ color: #EAEAEA;
+ -webkit-text-stroke: 3px #333333;
+}
+
+#yellow {
+ color: #FFE915;
+}
+
+.greyCircle {
+  width: 90px;
+  height: 45px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 90px 90px 0 0;
+  transform: rotate(180deg) scaleX(-1);
+  background: #333333;
+  position: relative;
+  top: 35px;
+}
+
+.yellowCircle {
+  width: 90px;
+  height: 45px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 90px 90px 0 0;
+  transform: rotate(180deg) scaleX(-1);
+  background: #e2cd0e;
+  position: relative;
+  top: 0px;
+}
